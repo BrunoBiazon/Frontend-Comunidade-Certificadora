@@ -69,6 +69,6 @@ Fiquei responsável pelas seguintes frentes no projeto:
 
 ## 🔗 Links de Acesso
 * 🐱 **Repositório Primário:** https://github.com/murilodot/Certificadora-Comum---Front-End/tree/main
-* 🌐 **Site do Projeto:** 
+* 🌐 **Site do Projeto:** https://brunobiazon.github.io/Frontend-Comunidade-Certificadora/
 * 🏫 **Google Classroom:** [Acesse a Turma Aqui](https://classroom.google.com/c/ODA2NjMyOTQ3MzQ0?cjc=rvvdjzq4)
 * 🔑 **Código da Turma:** `rvvdjzq4`
