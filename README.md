@@ -28,7 +28,7 @@ Para organizar o fluxo de entregas em um grupo de 4 pessoas, utilizamos metodól
 ## 🖋️ Minhas Contribuições
 Fiquei responsável pelas seguintes frentes no projeto:
 * **Planejamento:** Elaboração da estrutura inicial e slides de proposta.
-* **Desenvolvimento Web:** Criação do site oficial do projeto.
+* **Desenvolvimento Web:** Criação do site oficial utilizando Bootstrap para garantir uma interface responsiva, moderna e otimizada para diferentes tamanhos de tela.
 * **Produção de Conteúdo:** Gravação das videoaulas de **HTML, CSS e Testes de Responsividade**. Além disso, fiz a edição de vídeos.
 
 ## 🧠 O que aprendi com este projeto
